@@ -2,7 +2,7 @@
 
 ## 使用方法
 
-我的世界java版，语言改成English(US)，双击运行minecraftAutoFishing.py后，拿鱼竿右键抛出，等待即可
+我的世界java版1.17.1，语言改成English(US)，双击运行minecraftAutoFishing.py后，拿鱼竿右键抛出，等待即可
 
 ## 需要安装2个文件：
 
@@ -22,7 +22,7 @@ tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 ## How to use
 
-run minecraft java, change language to English(US), run minecraftAutoFishing.py, in game, right click your fishing rod
+run minecraft java 1.17.1, change language to English(US), run minecraftAutoFishing.py, in game, right click your fishing rod
 
 ## need install
 
